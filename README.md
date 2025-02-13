@@ -1,6 +1,6 @@
 ### Hi there! I'm Vinicius Rossi 👋
 
-🚀 **Senior Software Engineer** | Full-Stack Developer 
+**Senior Software Engineer** | Full-Stack Developer 
 🌍 Based in Salzburg, Austria  
 
 ---
