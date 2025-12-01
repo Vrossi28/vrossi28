@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 About Me
-I'm a passionate software engineer with over **5 years of experience**, working on **full-stack development** and **solution design** at [SKIDATA](https://www.skidata.com/). I've been the technical responsible for integrating large-scale payment systems and designing access control solutions across different continents.
+I'm a passionate software engineer with over **5 years of experience**, working on **full-stack development** and **solution design** at [Tesla](https://www.tesla.com/). I've been the technical responsible for integrating large-scale payment systems and designing access control solutions across different continents.
 
 I thrive in **problem-solving**, **system architecture**, and **cloud computing**, always looking for ways to innovate and optimize complex solutions.
 
