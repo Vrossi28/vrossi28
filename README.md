@@ -1,7 +1,7 @@
 ### Hi there! I'm Vinicius Rossi 👋
 
 **Software Engineer** | Full-Stack Developer 
-🌍 Based in Salzburg, Austria  
+🌍 Based in Amsterdam, Netherlands  
 
 ---
 
